@@ -38,8 +38,9 @@ We welcome contributions! Check out our repositories and feel free to:
 
 ## 📫 Contact
 
+- **Website**: [ainjiner.ai](https://ainjiner.ai)
 - **GitHub**: [github.com/ainjiner](https://github.com/ainjiner)
-- **Email**: hello@ainjine.er
+- **Email**: hello@ainjiner.ai
 
 ---
 
