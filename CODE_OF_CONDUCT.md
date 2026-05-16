@@ -51,7 +51,7 @@ an individual is representing the community in public spaces.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders at hello@ainjine.er.
+reported to the community leaders at hello@ainjiner.ai.
 
 ## Attribution
 
